@@ -1,0 +1,32 @@
+[
+	{
+		"id": "0",
+		"title": "First Message",
+		"importance": "High",
+		"body": "This is my first message."
+	},
+	{
+		"id": "1",
+		"title": "Another Message",
+		"importance": "Medium",
+		"body": "This message is sent just for fun."
+	},
+	{
+		"id": "2",
+		"title": "Time to Join",
+		"importance": "High",
+		"body": "This is the time for all good men to join the party."
+	},
+	{
+		"id": "3",
+		"title": "Fox and Dog",
+		"importance": "Low",
+		"body": "The quick brown fox jums right over the lazy dog."
+	},
+	{
+		"id": "4",
+		"title": "Yet Another Message",
+		"importance": "High",
+		"body": "This is the body of yet another message"
+	}
+]
